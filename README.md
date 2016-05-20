@@ -24,14 +24,14 @@ hz serve --dev  --allow-unauthenticated true --auto-create-collection true --aut
 
 ##Start Android version
 ```
-cd horizon-nativescript-chat-app
+cd nativescript-horizon-seed
 npm i
 tns run android
 ```
 
 ##Start IOS version
 ```
-cd horizon-nativescript-chat-app
+cd nativescript-horizon-seed
 npm i
 tns run ios
 ```
