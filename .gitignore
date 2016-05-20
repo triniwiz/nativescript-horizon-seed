@@ -1,0 +1,8 @@
+hooks
+platforms
+node_modules
+.vscode
+
+*.js
+*.map
+*.log
