@@ -13,8 +13,8 @@ Get started building [Horizon](http://horizon.io/) + [NativeScript](https://www.
 ##Create horizon server
 
 ```
-hz init nschatApp
-cd nschatAPP
+hz init nsServer
+cd nsServer
 hz serve --dev  --allow-unauthenticated true --auto-create-collection true --auto-create-index true
 ```
 
